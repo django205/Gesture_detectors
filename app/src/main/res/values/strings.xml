@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">swiper</string>
+    <string name="gestures_detector">gestures detector</string>
+</resources>
